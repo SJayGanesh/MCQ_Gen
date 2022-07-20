@@ -1,4 +1,3 @@
-import pdfminer
 import streamlit as st
 import fitz
 from PIL import Image
